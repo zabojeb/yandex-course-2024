@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"c:\\Users\\Nout\\Documents\\CONTESTS\\yandex-course-2024\\2-Sortings\\C.cpp","tests":[{"id":1727972027999,"input":"5\n1 5 2 4 3","output":"1 2 3 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Nout\\Documents\\CONTESTS\\yandex-course-2024\\2-Sortings\\C.cpp","group":"local","local":true}
